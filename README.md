@@ -56,7 +56,7 @@ Car-Price-Prediction/
 
 Clone this repository:
 
-git clone https://github.com/your-username/Car-Price-Prediction.git
+git clone https://github.com/Infi0606/Car-Price-Prediction
 cd Car-Price-Prediction
 
 
