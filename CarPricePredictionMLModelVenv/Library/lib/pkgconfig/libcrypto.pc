@@ -1,0 +1,11 @@
+prefix=E:/Research_Engineer_Internship_Project_1/Car_Price_Prediction_ML_Project/CarPricePredictionMLModelVenv/Library 
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenSSL-libcrypto
+Description: OpenSSL cryptography library
+Libs: -L"${libdir}" -llibcrypto
+Libs.private: -lcrypt32 -lws2_32
+Cflags: -I"${includedir}"
+Version: 3.0.17 

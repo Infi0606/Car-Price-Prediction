@@ -1,0 +1,9 @@
+prefix=E:/Research_Engineer_Internship_Project_1/Car_Price_Prediction_ML_Project/CarPricePredictionMLModelVenv/Library 
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenSSL
+Description: Secure Sockets Layer and cryptography libraries and tools
+Requires: libssl libcrypto
+Version: 3.0.17 

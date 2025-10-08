@@ -1,0 +1,13 @@
+prefix=E:/Research_Engineer_Internship_Project_1/Car_Price_Prediction_ML_Project/CarPricePredictionMLModelVenv/Library
+exec_prefix=E:/Research_Engineer_Internship_Project_1/Car_Price_Prediction_ML_Project/CarPricePredictionMLModelVenv/Library
+libdir=E:/Research_Engineer_Internship_Project_1/Car_Price_Prediction_ML_Project/CarPricePredictionMLModelVenv/Library/lib
+sharedlibdir=E:/Research_Engineer_Internship_Project_1/Car_Price_Prediction_ML_Project/CarPricePredictionMLModelVenv/Library/lib
+includedir=E:/Research_Engineer_Internship_Project_1/Car_Price_Prediction_ML_Project/CarPricePredictionMLModelVenv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
